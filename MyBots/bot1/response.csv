@@ -1,0 +1,36 @@
+response code,response text
+0,OK
+1,Thank you.
+2,Thanks.
+3,It is very kind of you.
+4,Very nice of you !
+
+7,Sorry. I could not get you.
+8,Can you please say that again ?
+9,I don't understand what you said.
+10,What do you mean ?
+
+11,You are welcome
+12,You are most welcome
+13,My pleasure
+14,No need. I'm only a bot
+
+15,Please say Yes or No
+
+20,That is not an expected answer.
+21,Please select a valid response for this situation.
+22,I don't know how to respond to that.
+23,What do you mean ?
+
+25,"Hello, @ #name"
+26,"Hello, @ #name @. How can I help you ?"
+
+51,"Hello, @ #name"
+52,"Good morning, @ #name @. %reminder"
+53,Today is @ %date @. Do you want the time also ?
+54,%time
+55,The time is @ %time
+56,%calendar
+57,Sure. Let me transfer you to Smart Office.
+58,One moment please. Transferring you to the help desk
+59,The next two holidays are. @ %holidays

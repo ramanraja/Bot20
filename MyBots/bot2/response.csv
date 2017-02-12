@@ -1,0 +1,45 @@
+response code,response text
+0,OK
+1,Thank you.
+2,Thanks.
+3,It is very kind of you.
+4,Very nice of you !
+
+5,"Yes, please ?"
+
+7,Sorry. I could not get you.
+8,Can you please say that again ?
+9,I don't understand what you said.
+10,What do you mean ?
+
+11,You are welcome
+12,You are most welcome
+13,My pleasure
+14,No need. I'm only a bot
+
+15,Please say Yes or No
+
+20,That is not an expected answer.
+21,Please select a valid response for this situation.
+22,I don't know how to respond to that.
+23,What do you mean ?
+
+25,"Hello, @ #name"
+26,"Hello, @ #name @. How can I help you ?"
+
+51,When will you need the room ? Today or tomorrow ?
+52,Please reply today or tomorrow only
+53,At what time ? Available slots are from 8 A M to 7 PM
+54,"Please choose a time between 8 AM and 7 PM, on the hour"
+55,"Do you want a large, medium or small room ?"
+56,"Please specify large, medium or small"
+57,Which building in Chennai ? R M Z or Olympia ?
+58,"You have only two choices in the city, R M Z and Olympia"
+59,Sorry. We are going back to where we started
+60,I am afraid that takes us back to square one
+61,OK. Let us start all over again
+62,I have booked the conference room. Thank you for being patient with me
+63,Your meeting room is booked. Thank you
+64,"Sorry, that room type is not available. Please choose a different time or room size, and try again"
+65,Your booking is confirmed. Have a good day
+66,Your booking confirmation number is 3426. Thank you.

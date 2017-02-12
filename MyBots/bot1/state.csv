@@ -1,0 +1,19 @@
+input context,canonical term,output context,responses,next actions,hints
+
+any,hello,any,51,0,2
+any,morning,any,52,0,2
+any,day,date1,53,1,1
+
+date1,yes,any,54,0,2
+date1,no,any,0,0,2
+date1,any,date2,15,0,1
+date2,yes,any,54,0,2
+date2,no,any,0,0,2
+date2,any,any,22,0,2
+
+any,time,any,55,0,2
+any,thanks,any,"1,2,3,4",0,2
+any,calendar,any,56,0,2
+any,conference,any,57,2,0
+any,help desk,any,58,3,0
+any,holiday,any,59,0,2

@@ -1,0 +1,11 @@
+action code,action
+0,none
+1,prompt
+2,remove
+10,launch Personal_Assistant
+11,pause1
+12,pause2
+
+51,sms1
+52,sms3
+53,call1

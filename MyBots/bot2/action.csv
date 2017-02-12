@@ -1,0 +1,29 @@
+action code,action
+0,none
+1,prompt
+2,remove
+10,launch Personal_Assistant
+
+50,go
+51,day:today
+52,day:tomorrow
+
+53,time:13
+54,time:14
+55,time:15
+56,time:16
+57,time:17
+58,time:18
+59,time:19
+60,time:8
+61,time:9
+62,time:10
+63,time:11
+64,time:12
+
+65,size:large
+66,size:medium
+67,size:small
+
+68,building:RMZ
+69,building:olympia

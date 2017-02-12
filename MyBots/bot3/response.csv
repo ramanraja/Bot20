@@ -1,0 +1,49 @@
+response code,response text
+0,OK
+1,Thank you.
+2,Thanks.
+3,It is very kind of you.
+4,Very nice of you !
+
+5,"Yes, please ?"
+
+7,Sorry. I could not get you.
+8,Can you please say that again ?
+9,I don't understand what you said.
+10,What do you mean ?
+
+11,You are welcome
+12,You are most welcome
+13,My pleasure
+14,No need. I'm only a bot
+
+15,Please say Yes or No
+
+20,That is not an expected answer.
+21,Please select a valid response for this situation.
+22,I don't know how to respond to that.
+23,What do you mean ?
+
+25,"Hello, @ #name"
+26,"Hello, @ #name @. How can I help you ?"
+
+51,Please confirm. Do you want to escalate your ticket ?
+52,Is that about Outlook ?
+53,There is a global outage with Exchange Server. Please try after 30 minutes
+54,Is it O S related ?
+55,Are you unable to log in ?
+56,Please confirm. Do want to reimage your system ?
+57,Please confirm. Do you want me to reset your password ?
+58,Please wait. I see your account has been locked. Do you want to reset your password ?
+59,Your ticket number @ %ticketnumber1 @  is pending implementation. The expected resolution time is @ %eta1 @ hours
+60,Sure. Your ticket @ %ticketnumber1 @ has been escalated. Please wait for further communication.
+61,What is the issue with your Jabber ? Are you unable to sign in ?
+62,I have sent you a link to a knowledge base article on how to register for Jabber. Please get back to me if you have any questions.
+63,Are you unable to import your Same Time contacts ?
+64,I have sent you a link to a knowledge base article on importing contacts. Hope that will help you resolve the problem.
+65,I have created ticket number @ %ticketnumber2 @  for reimaging your system. The expected time of resolution is @ %eta2 @ hours
+66,I have created ticket number @ %ticketnumber3 @  for software installation. The expected time of resolution is @ %eta3 @ hours
+67,I will transfer you to a help desk agent. One moment please.
+68,Is that about Jabber ?
+69,Please tell me about your problem
+70,I have sent you a link on your registered mobile number. Please click the link to reset your password. It will be valid for fifteen minutes.
