@@ -1,0 +1,11 @@
+import org.json.*;
+
+public class JsonTest {
+    public static void main (String... args)
+    {
+        JSONObject obj = new JSONObject();
+        obj.put("Name", "Raja");
+        obj.put("Age", "55");
+        System.out.println(obj.toString());
+    }
+}
